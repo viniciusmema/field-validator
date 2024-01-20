@@ -15,7 +15,7 @@
     "@trybe/eslint-config-frontend": "^1.11.4",
     "validator": "^13.11.0",
     "validator.js": "^2.0.4",
-    "vite": "^4.4.11"
+    "vite": "^4.5.2"
   },
   "type": "module"
 }
